@@ -1,0 +1,43 @@
+.tit {
+font: 12pt;
+font-family:Meiryo UI,  Verdana, "游ゴシック", YuGothic, "Hiragino Kaku Gothic ProN", sans-serif;
+color: #483d8b; 
+font-style: italic;
+font-weight: bold;
+}
+
+BODY{
+font: 10pt
+font-family: Verdana, "游ゴシック", YuGothic, "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+color: #000000; 
+background-image: url("Wall.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: right top;
+background-color: #BDB08E;
+}
+
+TABLE.K1{
+table-layout: fixed;
+width: 70%;
+border: solid 1px blue;
+border-collapse: separate;
+border-spacing: 10px;
+}
+TD{
+font: 9pt;
+font-family: Verdana, "游ゴシック", YuGothic, "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+color: #000000;
+}
+
+A{
+font-family: bold 9pt times,serif;
+color: blue; 
+text-decoration: none; 
+}
+A:HOVER{
+font: 9pt;
+font-family: Verdana, "游ゴシック", YuGothic, "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+color: blue; 
+text-decoration: underline; 
+}
